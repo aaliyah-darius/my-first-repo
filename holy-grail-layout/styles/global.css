@@ -1,0 +1,15 @@
+header, 
+footer {
+  background-color: #83caff;
+}
+
+.column-left,
+.column-right {
+  background-color: #cc99cc;
+}
+
+.column-center {
+  background-color: #ffcccc;
+}
+
+
